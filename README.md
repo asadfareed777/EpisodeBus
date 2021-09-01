@@ -1,4 +1,5 @@
- [![](https://jitpack.io/v/asadfareed777/MyEpisodeBus.svg)](https://jitpack.io/#asadfareed777/MyEpisodeBus)
+[![](https://jitpack.io/v/asadfareed777/EpisodeBus.svg)](https://jitpack.io/#asadfareed777/EpisodeBus)
+
 
 # MyEpisodeBus
  Episode Bus is a new way of communication
